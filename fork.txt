@@ -1,1 +1,4 @@
-
+nombre: Adriel, Jovani
+apellido: Maidana, Aquino
+IP de la máquina: 11.654.524
+Hora: 11:40
